@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Daniela (daniibu)</h1>
-<h3 align="center">Estudiante en la tecnicatura de Desarrollo de software, en este perfil encontraras algunos proyectos, ejercicios y tareas hechos en la misma carrera. Espero que esta información sea de tu utilidad :)</h3>
+<h3 align="center">Estudiante en la tecnicatura de Desarrollo de software :)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
