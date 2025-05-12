@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Daniela (daniibu)</h1>
 <h3 align="center">Estudiante en la tecnicatura de Desarrollo de software :)</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:www.linkedin.com/in/daniela-belén-cabrera-149234263</h3>
 <p align="left">
 </p>
 
